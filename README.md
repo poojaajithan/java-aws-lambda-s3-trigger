@@ -31,6 +31,6 @@ Before setting up and deploying the Lambda function, ensure you have the followi
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/lambda-s3-trigger-java.git
-   cd lambda-s3-trigger-java
+   git clone https://github.com/poojaajithan/java-aws-lambda-s3-trigger.git
+   cd java-aws-lambda-s3-trigger
 
