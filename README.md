@@ -28,7 +28,8 @@ Before setting up and deploying the Lambda function, ensure you have the followi
 
 ## Setup
 
-1. **Clone the Repository:**
+**Clone the Repository:**
+Build the Project: mvn clean package
 
    ```bash
    git clone https://github.com/poojaajithan/java-aws-lambda-s3-trigger.git
